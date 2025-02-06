@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sahil Tiwari</h1>
 <h3 align="center">A passionate Data Scientist from India</h3>
-<img align=“right” alt="coding” width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Frudrabarad%2FGifs&psig=AOvVaw25v5cQb8Q68e_tRBcjKfV9&ust=1738940975473000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCKiu04uqr4sDFQAAAAAdAAAAABAY">
 
 - 🔭 I’m currently working on **Material Lifespan prediction**
 
